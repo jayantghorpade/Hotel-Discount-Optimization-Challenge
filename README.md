@@ -1,8 +1,6 @@
 ---  
 # hotel_discount_info.yml
 
-# Hotel Discount Optimization Analysis
-
 **Author:** Jayant_G,
 **Project:** Hotel Discount Analysis & Optimization
 **Date:** 2025
