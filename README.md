@@ -45,7 +45,7 @@ The goal is to help hotels **maximize occupancy without giving away rooms too ch
 
 ## Dataset
 
-The dataset contains hotel snapshots with the following fields:
+#The dataset contains hotel snapshots with the following fields:
 
 * Snapshot ID
 * Snapshot Date
